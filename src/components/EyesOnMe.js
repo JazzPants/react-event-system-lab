@@ -14,3 +14,5 @@ export default class EyesOnMe extends Component {
 
     }
 }
+
+//works with tab and shift-tab when you click on button or input
