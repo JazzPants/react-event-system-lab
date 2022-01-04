@@ -10,3 +10,6 @@ export default class Keypad extends Component {
 
     }
 }
+//onKeyUp is the event
+//we handle it by calling a function that we called onKeyUp 
+//when the app hears the actual user event "onKeyUp"
